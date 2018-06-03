@@ -1,18 +1,3 @@
-#
-#
-### THEME_EBT
-library(ggplot2)
-theme_ebt <- function()
-  theme_minimal() +
-  theme(legend.position = "top",
-        plot.title = element_text(size = 16, face = "bold", color = rgb(45, 56, 81, maxColorValue = 255)),
-        plot.background = element_rect(fill = rgb(221, 226, 233, maxColorValue = 255), color = NA),
-        strip.background = element_rect(fill = rgb(186, 194, 207, maxColorValue = 255), color = NA),
-        panel.grid.major = element_line(color = "white"),
-        panel.grid.minor = element_line(color = "white")) # ersetzen durch 'panel.grid' in ggplot 2.3.0
-
-
-
 library(tidyverse)
 
 #
@@ -154,17 +139,17 @@ raw <- read_delim(file = "C:/Users/Thomas/Eurobanknotes/script/EBT-Bills.csv",
 
 cat(paste0("...EBT> READ ",raw %>% count()," notes/lines\n"))
 
-# Erg‰nze Serie
+# Erg√§nze Serie
 notes <- raw %>%
   left_join(EBT_global$series, by = c("Value", "Copyright"))
 
 
-# Erg‰nze Printer
+# Erg√§nze Printer
 notes <- notes %>%
   mutate(PrinterCode = substr(PrinterPlain, 1, 1)) %>%
   left_join(EBT_global$printer, by = c("Series", "PrinterCode"))
 
-# Erg‰nze Land
+# Erg√§nze Land
 notes <- notes %>%
   mutate(IssuerCode = substr(SerialPlain, 1, 1)) %>%
   left_join(EBT_global$country, by = c("Series", "IssuerCode"))
@@ -202,7 +187,7 @@ hits <- raw[1:(splitter - 1)] %>% as.tibble() %>%
 n <- c(hits %>% count() %>% pull(), hits %>% filter(Mod == 1) %>% count() %>% pull())
 cat(paste("...EBT> READ", n[1], "hits/lines\n"))
 
-# Schlieﬂe moderierte aus
+# Schlie√üe moderierte aus
 hits <- hits %>%
   filter(Mod == 0)
 
@@ -227,7 +212,7 @@ hits <- left_join(hits %>% select(NoteID, DateStamp),
   transmute(NoteID,
             NoteNumber,
             Way = case_when(DateStamp == DateStamp.entered ~ "in", TRUE ~ "out")) %>%
-            bind_cols(notes %>%   # F¸ge 'DateStamp' aus 'notes' und 'hits' zusammen und behalte korrigierte (- 1:..) Zeilennummern
+            bind_cols(notes %>%   # F√ºge 'DateStamp' aus 'notes' und 'hits' zusammen und behalte korrigierte (- 1:..) Zeilennummern
                       select(DateStamp) %>%
                       add_column(Hit = FALSE) %>%
                       bind_rows(hits %>% select(DateStamp) %>% add_column(Hit = TRUE)) %>%
@@ -245,26 +230,3 @@ hits <- left_join(hits %>% select(NoteID, DateStamp),
 cat("...EBT> SUCCESSfully created 'hits'\n")
 
 rm(splitter, raw)
-
-source(paste0(EBT_global$whereis, "make mds ex notes.r"))
-cat("...EBT> SUCCESSfully saved 'ebt_mds.txt'\n")
-
-source(paste0(EBT_global$whereis, "georgescore ex notes.r"))
-
-source(paste0(EBT_global$whereis, "overview ex notes.r"))
-cat("...EBT> SUCCESSfully created 'graph.png'    ... 1 of 4\n")
-
-source(paste0(EBT_global$whereis, "overview_gg ex notes.r"))
-cat("...EBT> SUCCESSfully created 'graph_gg.png' ... 2 of 4\n")
-
-source(paste0(EBT_global$whereis, "trend ex mds.r"))
-cat("...EBT> SUCCESSfully created 'trend.png'    ... 3 of 4\n")
-
-source(paste0(EBT_global$whereis, "dotmap ex_notes.r"))
-cat("...EBT> SUCCESSfully created 'dotmap.png'   ... 4 of 4\n")
-
-source(paste0(EBT_global$whereis, "stdtable ex notes.r"))
-cat("...EBT> SUCCESSfully initialised 'stdtable()'\n")
-
-sapply(dir(paste0(EBT_global$whereis,"modulares erfassen"), pattern = "_", full.names = TRUE), source)
-cat("...EBT> SUCCESSfully initialised 'modulares erfassen'\n")
