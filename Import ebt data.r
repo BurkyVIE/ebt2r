@@ -1,6 +1,6 @@
-### This r-code sets up a list og global tibbles (i.e. workpath, series information, printer information, country information
+### This r-code sets up a list of global tibbles (i.e. workpath, series information, printer information, country information
 ### and country abbreviation table.
-### Files bills.csv and hits.csv are imported and converted to proper tibbles enriches with the global tibble's information
+### Files 'bills.csv' and 'hits.csv' are imported and converted to proper tibbles enriched with the global tibble's information.
 
 library(tidyverse)
 
