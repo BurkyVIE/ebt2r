@@ -1,6 +1,16 @@
-### This r-code sets up a list of global tibbles (i.e. workpath, series information, printer information, country information
-### and country abbreviation table.
-### Files 'bills.csv' and 'hits.csv' are imported and converted to proper tibbles enriched with the global tibble's information.
+#
+#
+### THEME_EBT
+library(ggplot2)
+theme_ebt <- function()
+  theme_minimal() +
+  theme(legend.position = "top",
+        plot.title = element_text(size = 16, face = "bold", color = rgb(45, 56, 81, maxColorValue = 255)),
+        plot.background = element_rect(fill = rgb(221, 226, 233, maxColorValue = 255), color = NA),
+        strip.background = element_rect(fill = rgb(186, 194, 207, maxColorValue = 255), color = NA),
+        panel.grid = element_line(color = "white"))
+
+
 
 library(tidyverse)
 
@@ -178,21 +188,43 @@ rm(raw)
 ### HITS
 
 # Einlesen Rohdaten
-raw <- read_lines(file = "C:/Users/Thomas/Eurobanknotes/script/EBT-Hits.csv",
-                  skip = 1, progress = TRUE)
+raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE)
 
 # Finde Trennstelle
 splitter <- which(raw == "")
 
-hits <- raw[1:(splitter - 1)] %>% as.tibble() %>%
+# Trefferdaten
+hits1 <- raw[1:(splitter - 1)] %>% enframe(name = NULL) %>%
   separate(value, into = c("Value", "SerialPlain", "PrinterPlain", "Copyright", "NoteID", "DateStamp", "TimesEntered", "Mod", "Km", "Days", "LongVector", "LatVector"),
            sep = ";", remove = TRUE)
 
-n <- c(hits %>% count() %>% pull(), hits %>% filter(Mod == 1) %>% count() %>% pull())
+# Übernehme Informationenen aus den Trefferdetails (insb. für fixes Trefferdatum = mein Schein wurde zum Treffer bzw. ich mache einen Treffer; weiteres Finden wird ignoriert)
+hits2 <- raw[-(1:splitter)] %>%
+  enframe(name = NULL) %>%
+  mutate(value = gsub(pattern = "\\\".*\\\"", replacement = "bad comment", value)) %>% 
+  separate(value, into = c("Value", "SerialPlain", "PrinterPlain", "Copyright", "NoteID", "DateStamp", "Comment", "EntryCountry", "EntryCity", "EntryZIP", "UserID", "UserName", "Long", "Lat", "Km", "Days"),
+           sep = ";", remove = TRUE) %>% 
+  select(Value, SerialPlain, Copyright, NoteID, DateStamp, UserID, UserName, Long, Lat) %>% 
+  transmute(Value = parse_integer(Value),
+            SerialPlain = SerialPlain,
+            Copyright = parse_integer(Copyright),
+            NoteID = parse_integer(NoteID),
+            DateStamp = parse_datetime(DateStamp),
+            UserID = parse_integer(UserID),
+            UserName = UserName,
+            Long = parse_double(Long),
+            Lat = parse_double(Lat)) %>% 
+  nest(DateStamp, NoteID, UserID, UserName, Lat, Long, .key = HitData) %>% 
+  mutate(NoteID = map_int(.x = HitData, .f = ~ .$NoteID[.$UserID == 32954]),
+         MeIsNo = map_int(.x = HitData, .f = ~ which(.$UserID == 32954)),
+         DateFixed = purrr::map(.x = HitData, .f = ~ .[max(2L, which(.$UserID == 32954)), 1]) %>% unlist(),
+         DateFixed = lubridate::as_datetime(DateFixed, origin = "1970-01-01 00:00:00") %>% lubridate::date())
+
+n <- c(hits1 %>% count() %>% pull(), hits1 %>% filter(Mod == 1) %>% count() %>% pull())
 cat(paste("...EBT> READ", n[1], "hits/lines\n"))
 
 # Schließe moderierte aus
-hits <- hits %>%
+hits <- hits1 %>%
   filter(Mod == 0)
 
 cat(paste0("...EBT> REMOVED ", n[2], " moderated hits (", format(round(n[2] / n[1] * 100, 2), digits = 2, nsmall = 2)," %)\n"))
@@ -204,33 +236,34 @@ hits <- hits %>%
             Km = parse_integer(Km),
             Days = parse_integer(Days),
             TimesEntered = parse_integer(TimesEntered),
-            NoteID = parse_integer(NoteID),
-            LongVector = LongVector,
-            LatVector = LatVector) %>%
-  arrange(DateStamp)
-
-hits <- left_join(hits %>% select(NoteID, DateStamp),
-                  notes %>% select(NoteID, DateStamp) %>% rownames_to_column("NoteNumber") %>%
-                    mutate(NoteNumber = NoteNumber %>% parse_integer()),
-                  by = "NoteID", suffix = c("", ".entered")) %>%
-  transmute(NoteID,
-            NoteNumber,
-            Way = case_when(DateStamp == DateStamp.entered ~ "in", TRUE ~ "out")) %>%
-            bind_cols(notes %>%   # Füge 'DateStamp' aus 'notes' und 'hits' zusammen und behalte korrigierte (- 1:..) Zeilennummern
-                      select(DateStamp) %>%
-                      add_column(Hit = FALSE) %>%
-                      bind_rows(hits %>% select(DateStamp) %>% add_column(Hit = TRUE)) %>%
-                      arrange(DateStamp) %>%
-                      rownames_to_column("ID") %>% mutate(ID = ID %>% parse_integer()) %>%
-                      filter(Hit) %>%
-                      rownames_to_column("No") %>% mutate(No = No %>% parse_integer()) %>%
-                      mutate(NoteCount = ID - No) %>% select(NoteCount)) %>%
-  mutate(NoteCount = case_when(Way == "in" ~ NoteNumber,
-                               TRUE ~ NoteCount)) %>%
-  right_join(hits, by = "NoteID") %>%
+            NoteID = parse_integer(NoteID)) %>%
   arrange(DateStamp) %>%
-  select(DateStamp, Value, Km, Days, Way, TimesEntered, NoteNumber, NoteCount, NoteID, LongVector, LatVector)
+  left_join(y = hits2, by = "NoteID") %>% 
+  select(DateStamp, DateFixed, NoteID, Value = Value.x, TimesEntered, MeIsNo, Km, Days, HitData)
 
 cat("...EBT> SUCCESSfully created 'hits'\n")
 
-rm(splitter, raw)
+rm(splitter, raw, hits1, hits2)
+
+source(paste0(EBT_global$whereis, "make mds ex notes.r"))
+cat("...EBT> SUCCESSfully saved 'ebt_mds.txt'\n")
+
+source(paste0(EBT_global$whereis, "georgescore ex notes.r"))
+
+source(paste0(EBT_global$whereis, "overview ex notes.r"))
+cat("...EBT> SUCCESSfully created 'graph.png'    ... 1 of 4\n")
+
+source(paste0(EBT_global$whereis, "overview_gg ex notes.r"))
+cat("...EBT> SUCCESSfully created 'graph_gg.png' ... 2 of 4\n")
+
+source(paste0(EBT_global$whereis, "trend ex mds.r"))
+cat("...EBT> SUCCESSfully created 'trend.png'    ... 3 of 4\n")
+
+source(paste0(EBT_global$whereis, "dotmap ex_notes.r"))
+cat("...EBT> SUCCESSfully created 'dotmap.png'   ... 4 of 4\n")
+
+source(paste0(EBT_global$whereis, "stdtable ex notes.r"))
+cat("...EBT> SUCCESSfully initialised 'stdtable()'\n")
+
+sapply(dir(paste0(EBT_global$whereis,"modulares erfassen"), pattern = "_", full.names = TRUE), source)
+cat("...EBT> SUCCESSfully initialised 'modulares erfassen'\n")
