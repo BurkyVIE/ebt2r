@@ -218,7 +218,7 @@ hits2 <- raw[-(1:splitter)] %>%
   mutate(NoteID = map_int(.x = HitData, .f = ~ .$NoteID[.$UserID == 32954]),
          MeIsNo = map_int(.x = HitData, .f = ~ which(.$UserID == 32954)),
          DateFixed = purrr::map(.x = HitData, .f = ~ .[max(2L, which(.$UserID == 32954)), 1]) %>% unlist(),
-         DateFixed = lubridate::as_datetime(DateFixed, origin = "1970-01-01 00:00:00") %>% lubridate::date())
+         DateFixed = lubridate::as_datetime(DateFixed, origin = "1970-01-01 00:00:00"))
 
 n <- c(hits1 %>% count() %>% pull(), hits1 %>% filter(Mod == 1) %>% count() %>% pull())
 cat(paste("...EBT> READ", n[1], "hits/lines\n"))
