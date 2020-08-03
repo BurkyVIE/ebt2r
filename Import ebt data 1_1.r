@@ -190,10 +190,13 @@ rm(raw)
 ### HITS
 
 # Einlesen Rohdaten
-raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE)
+raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE, locale = locale(encoding = "UTF-8"))
 
 # Finde Trennstelle
 splitter <- which(raw == "")
+
+# Teste Encoding
+#raw[-(1:splitter)][3572:3573] # ß und ä
 
 # Trefferdaten
 hits1 <- raw[1:(splitter - 1)] %>% enframe(name = NULL) %>%
