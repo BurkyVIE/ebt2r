@@ -190,7 +190,7 @@ rm(raw)
 ### HITS
 
 # Einlesen Rohdaten
-raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE, locale = locale(encoding = "UTF-8"))
+raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE, locale = locale(encoding = "WINDOWS-1252"))
 
 # Finde Trennstelle
 splitter <- which(raw == "")
