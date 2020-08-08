@@ -158,17 +158,17 @@ raw <- read_delim(file = "C:/Users/Thomas/Eurobanknotes/script/EBT-Bills.csv",
 
 cat(paste0("...EBT> READ ",raw %>% count()," notes/lines\n"))
 
-# Erg‰nze Serie
+# Erg√§nze Serie
 notes <- raw %>%
   left_join(EBT_global$series, by = c("Value", "Copyright"))
 
 
-# Erg‰nze Printer
+# Erg√§nze Printer
 notes <- notes %>%
   mutate(PrinterCode = substr(PrinterPlain, 1, 1)) %>%
   left_join(EBT_global$printer, by = c("Series", "PrinterCode"))
 
-# Erg‰nze Land
+# Erg√§nze Land
 notes <- notes %>%
   mutate(IssuerCode = substr(SerialPlain, 1, 1)) %>%
   left_join(EBT_global$country, by = c("Series", "IssuerCode"))
@@ -193,13 +193,13 @@ rm(raw)
 ### HITS
 
 # Einlesen Rohdaten
-raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE)#, locale = locale(encoding = "WINDOWS-1252"))
+raw <- read_lines(file = "script/EBT-Hits.csv", skip = 1, progress = TRUE)
 
 # Finde Trennstelle
 splitter <- which(raw == "")
 
 # Teste Encoding
-#raw[-(1:splitter)][3572:3573] # ﬂ und ‰
+#raw[-(1:splitter)][3572:3573] # √ü und √§
 
 # Trefferdaten
 hits1 <- read_delim(raw[1:(splitter - 1)],
@@ -214,7 +214,7 @@ hits1 <- read_delim(raw[1:(splitter - 1)],
                     progress = TRUE
                     )
 
-# ‹bernehme Informationenen aus den Trefferdetails (insb. f¸r fixes Trefferdatum = mein Schein wurde zum Treffer bzw. ich mache einen Treffer; weiteres Finden wird ignoriert)
+# √úbernehme Informationenen aus den Trefferdetails (insb. f√ºr fixes Trefferdatum = mein Schein wurde zum Treffer bzw. ich mache einen Treffer; weiteres Finden wird ignoriert)
 hits2 <- read_delim(raw[-(1:splitter)],
                     delim = ";",
                     skip = 0,
@@ -237,7 +237,7 @@ hits2 <- read_delim(raw[-(1:splitter)],
 n <- c(hits1 %>% count() %>% pull(), hits1 %>% filter(Mod == 1) %>% count() %>% pull())
 cat(paste("...EBT> READ", n[1], "hits/lines\n"))
 
-# Schlieﬂe moderierte aus
+# Schlie√üe moderierte aus
 hits <- hits1 %>%
   filter(Mod == 0)
 
