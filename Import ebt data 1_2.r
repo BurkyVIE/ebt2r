@@ -177,11 +177,16 @@ notes <- notes %>% left_join(EBT_global$countrynames, by = c("PrinterShort"  = "
 notes <- notes %>% left_join(EBT_global$countrynames, by = c("IssuerShort"  = "Short")) %>% rename(IssuerCountry = Country)
 notes <- notes %>% left_join(EBT_global$countrynames, by = c("EntryCountry"  = "Country")) %>% rename(EntryShort = Short)
 
+# Ergänze Boomerang-Datum
+notes <- notes %>%
+  mutate(Boomerang = str_extract(Comment, "boomerang: \\d{2}/\\d{2}/\\d{4}") %>% str_sub(., -10, -1) %>% lubridate::dmy())
+
 notes <- notes %>% select(Value, Copyright, Series,
                           PrinterPlain, PrinterCode, PrinterCountry, PrinterShort,
                           SerialPlain, IssuerCode, IssuerCountry, IssuerShort,
                           DateStamp, EntryCountry, EntryShort, EntryZIP, EntryCity,
-                          TimesEntered, Long, Lat, NoteID, Mod)
+                          TimesEntered, Long, Lat, NoteID, Mod, Boomerang)
+
 
 cat("...EBT> SUCCESSfully created 'notes'\n")
 
