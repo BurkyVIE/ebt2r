@@ -187,7 +187,6 @@ notes <- notes %>% select(Value, Copyright, Series,
                           DateStamp, EntryCountry, EntryShort, EntryZIP, EntryCity,
                           TimesEntered, Long, Lat, NoteID, Mod, Boomerang)
 
-
 cat("...EBT> SUCCESSfully created 'notes'\n")
 
 rm(raw)
