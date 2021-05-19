@@ -7,6 +7,7 @@ coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE) {#, cou
   calculate <- function(data, Serial, encore = TRUE) {
     
     Serial <- enquo(Serial)
+    
     tmp <- data %>%
       mutate(DigitVector = map(!!Serial, ~as.integer(str_extract_all(., "\\d", simplify = TRUE))),
              Solid = map_dbl(!!Serial, ~max(0, nchar(str_extract_all(., "(\\d)\\1+", simplify = TRUE)), na.rm = TRUE)), # digit followed by at least one identical
@@ -19,11 +20,15 @@ coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE) {#, cou
     # Encore (i.e. ladder does not end at 9 resp 0; -> 8, 9, 0, 1, 2 <-)
     if(encore)
       tmp <- tmp %>%
-      mutate(across(c(LadderUp, LadderDown), ~map(., ~replace(., . == -9, 1)))) # replace -9 for encore
+      # mutate(across(c(LadderUp, LadderDown), ~map(., ~replace(., . == -9, 1)))) # replace -9 for encore
+      mutate(LadderUp = map(LadderUp, ~replace(., . == -9, 1)),
+             LadderDown = map(LadderDown, ~replace(., . == -9, 1)))
     
     # finally get the Ladder done
     tmp <- tmp %>%
-      mutate(across(c(LadderUp, LadderDown), ~map_dbl(., ~max(table(cumsum(. != 1)))))) %>%  # cumsum steps up by 1 if diff >1, use table to get most common non-difference
+      # mutate(across(c(LadderUp, LadderDown), ~map_dbl(., ~max(table(cumsum(. != 1)))))) %>%  # cumsum steps up by 1 if diff >1, use table to get most common non-difference
+      mutate(LadderUp = map_dbl(LadderUp, ~max(table(cumsum(. != 1)))),
+             LadderDown = map_dbl(LadderDown, ~max(table(cumsum(. != 1))))) %>% 
       rowwise() %>%
       mutate(Ladder = max(LadderUp, LadderDown)) %>%
       select(-contains(c("Up", "Down", "Vector")))  # remove helping variables
