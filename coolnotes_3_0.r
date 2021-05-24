@@ -56,7 +56,7 @@ coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE) {#, cou
   
   # join data an calculations, add rating
   tmp <- data %>%
-    select(!!Serial, any_of(c("Value", "PrinterPlain", "Printer", "NoteID", "DateStamp", "Stashed"))) %>%
+    select(!!Serial, any_of(c("Value", "PrinterPlain", "Printer", "Series", "NoteID", "DateStamp", "Stashed"))) %>%
     left_join(., coolnotes_stored, by = by) %>%
     mutate(Rating = (Solid/10)**2 + .9 * (Ladder/10)**3 + .75 * (1-Unique/10)**5 + .25 * Radar + .25 * Binary)
   
