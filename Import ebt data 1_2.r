@@ -206,7 +206,7 @@ splitter <- which(raw == "")
 #raw[-(1:splitter)][3572:3573] # ß und ä
 
 # Trefferdaten
-hits1 <- read_delim(raw[1:(splitter - 1)],
+hits1 <- read_delim(I(raw[1:(splitter - 1)]),
                     delim = ";",
                     skip = 0,
                     col_names = c("Value", "SerialPlain", "PrinterPlain", "Copyright", "NoteID",
@@ -219,7 +219,7 @@ hits1 <- read_delim(raw[1:(splitter - 1)],
                     )
 
 # Übernehme Informationenen aus den Trefferdetails (insb. für fixes Trefferdatum = mein Schein wurde zum Treffer bzw. ich mache einen Treffer; weiteres Finden wird ignoriert)
-hits2 <- read_delim(raw[-(1:splitter)],
+hits2 <- read_delim(I(raw[-(1:splitter)]),
                     delim = ";",
                     skip = 0,
                     col_names = c("Value", "SerialPlain", "PrinterPlain", "Copyright", "NoteID",
