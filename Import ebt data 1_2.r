@@ -157,6 +157,7 @@ raw <- read_delim(file = "C:/Users/Thomas/Eurobanknotes/script/EBT-Bills.csv",
                   progress = TRUE)
 
 cat(paste0("...EBT> READ ",raw %>% count()," notes/lines\n"))
+closeAllconnections()
 
 # Ergänze Serie
 notes <- raw %>%
@@ -240,6 +241,7 @@ hits2 <- read_delim(I(raw[-(1:splitter)]),
 
 n <- c(hits1 %>% count() %>% pull(), hits1 %>% filter(Mod == 1) %>% count() %>% pull())
 cat(paste("...EBT> READ", n[1], "hits/lines\n"))
+closeAllconnections()
 
 # Schließe moderierte aus
 hits <- hits1 %>%
