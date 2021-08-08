@@ -154,7 +154,8 @@ raw <- read_delim(file = "C:/Users/Thomas/Eurobanknotes/script/EBT-Bills.csv",
                   col_types = list(col_integer(), col_integer(), col_character(), col_character(), col_datetime(),
                                    col_character(), col_character(), col_character(), col_character(), col_integer(),
                                    col_integer(), col_logical(), col_double(), col_double()),
-                  progress = TRUE)
+                  progress = TRUE,
+                  lazy = FALSE)
 
 cat(paste0("...EBT> READ ",raw %>% count()," notes/lines\n"))
 closeAllconnections()
@@ -216,8 +217,8 @@ hits1 <- read_delim(I(raw[1:(splitter - 1)]),
                     col_types = list(col_integer(), col_character(), col_character(), col_integer(), col_integer(),
                                      col_datetime(), col_integer(), col_logical(), col_integer(), col_integer(),
                                      col_character(), col_character()),
-                    progress = TRUE
-                    )
+                    progress = TRUE,
+                    lazy = FALSE)
 
 # Übernehme Informationenen aus den Trefferdetails (insb. für fixes Trefferdatum = mein Schein wurde zum Treffer bzw. ich mache einen Treffer; weiteres Finden wird ignoriert)
 hits2 <- read_delim(I(raw[-(1:splitter)]),
