@@ -90,3 +90,13 @@
 10 f003b6 fa2819813706 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
 10 y008f6 ya5601866372 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
 10 u012e2 ub3325016792 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 m004f3 mc3282827553 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 r006d4 ra3323790168 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 s012e5 sb5095908733 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u025h4 ud4636665108 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u007g2 ub5099194595 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u021e5 ue0553947659 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 s004h2 se8111683567 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u024i3 uc6545529325 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 x002d3 xa3267603792 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u017b1 ua1399613025 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
