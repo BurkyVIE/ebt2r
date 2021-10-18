@@ -300,3 +300,68 @@
 10 w001d1 wa0565378057 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
 10 y009c3 ya6300194012 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
 10 u010e1 ua4258934427 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 s017a2 se1335433141 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 r015b4 rp2048952969 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u031b5 ud7769013462 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 s011g6 sa7085717852 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 r014f1 rp1452385683 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 e006g1 ec3978207053 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 s017a5 sb1356846394 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 u032i2 ub7808699513 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 s003i2 se9005733037 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+20 r007h1 ra4143153192 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 16/10/2021
+
+---
+
+8020 Graz-Eggenberg
+
+10 w003c3 wa3525062707 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 s003c6 sa3038974691 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001a6 wa0167014657 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p005e4 pa6938933822 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n012g3 nb3716266383 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 f002i4 fa2157881319 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p006c3 pa8984491802 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n015f5 nb5636447721 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n015g1 nb1733844204 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 u010f3 uc3261931021 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p004b5 pa6453073367 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 x003d2 xa3042598437 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 v007g5 va8515291241 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 y001i1 ya1004546654 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 y008c1 ya5414501051 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p005i1 pa6709102325 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p006f2 pa8920091087 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n010b4 nb4206138768 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w003i2 wa4925054719 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 y003a6 ya2040617825 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 t004e3 ta2382828232 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 v007b5 va8107043888 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001b4 wa0291736981 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001g1 wa1098252919 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001b6 wa0348278113 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n002c3 na3308844007 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n015c6 nb6335812251 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n006g2 na2739643021 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p002a1 pa2168507753 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p003a3 pa4412011391 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 f004e5 fa3808091745 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001a1 wa0023991508 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p006c2 pa8899944101 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 x002c1 xa1922200524 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001e3 wa0797042827 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 e005h5 eb0856462392 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w003g4 wa4525564672 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w009i3 wb4108877055 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 p002f3 pa2935473668 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n002g3 na3711028105 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 u006c6 ue7159593437 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 e008i3 eb4906028205 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 e005g4 eb0255530331 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 e005b2 eb0061127559 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 f001f4 fa0411095619 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001e4 wa0831510757 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 w001d2 wa0591513031 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 e005f5 eb0574383834 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 n006e5 na5536301104 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
+10 u008g5 ue2160720998 Steiermärkische Sparkasse Eggenberger Allee 42, CR, stashed 17/10/2021
