@@ -164,6 +164,9 @@ closeAllconnections()
 notes <- raw %>%
   left_join(EBT_global$series, by = c("Value", "Copyright"))
 
+# Ändere Zeitzone
+notes <- notes %>% 
+  mutate(DateStamp = lubridate::tz(DateStamp) <- "Europe/Vienna")
 
 # Ergänze Printer
 notes <- notes %>%
