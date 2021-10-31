@@ -271,3 +271,8 @@ St. Pölten, Austria, 3100
 10 w002g4 wa1170945055 Sparkasse Domgasse 5, CR, stashed 31/10/2021
 10 y009d3 ya6040218221 Sparkasse Domgasse 5, CR, stashed 31/10/2021
 10 u005i6 uf3127804378 Sparkasse Domgasse 5, CR, stashed 31/10/2021
+20 r013i4 rp1900089378 Sparkasse Domgasse 5, CR, stashed 31/10/2021
+20 r007h3 ra5403266007 Sparkasse Domgasse 5, CR, stashed 31/10/2021
+20 m004a6 mc2386601226 Sparkasse Domgasse 5, CR, stashed 31/10/2021
+20 u003h6 uf2046150313 Sparkasse Domgasse 5, CR, stashed 31/10/2021
+20 e010g6 em1894371964 Sparkasse Domgasse 5, CR, stashed 31/10/2021
