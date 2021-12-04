@@ -1,68 +1,142 @@
 <202_-__-__ __:__:__>
 Wien, Austria, 1170
 - - - - - - - - - - -
-50 u030e5 ud6606199971 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 p001c4 pb0266729254 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r032g5 rd2325958815 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 y002h2 ya0628880372 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u011c4 uc6233101714 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u016d3 ub9409361456 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r027a3 rc4945936702 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 p006b4 pb7252890613 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r032b5 rd2278753824 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w007b5 wa6990074704 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 s033h3 sc8635843758 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 s015f1 se6275958049 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w014a2 wb3945655737 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 v001b5 va0325334468 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u030b5 ud3634291818 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u007g1 ua6122038908 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u013a3 ub6314984372 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u017f3 uc1401120019 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w003b4 wa0630400015 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u008d3 ub9143146937 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r029d2 rd0026131593 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 v009f1 va9509640365 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r023a5 rc5085512284 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u008g1 ua6157469424 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 z022b2 zd3150509944 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u006a2 ua8104635786 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u014c1 ua2343668439 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 e008g4 eb3713765616 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u009a5 ud2191323834 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r023h1 rc3456567769 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r026e2 rc4365692968 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 e012a2 eb7561141992 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 s035c3 sc3800893512 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 s022d5 sa4458980561 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u008b4 uc5169166156 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w013h2 wb3904663338 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w012e2 wb2636809029 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 p004a4 pb4263279658 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r004a2 ra2876808399 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 s015f3 sc6181584159 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r032h5 rd1735479327 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w001e3 wa2292739372 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u010c4 uc6207758182 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u015f4 uc9368514451 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 e015h5 ec0239637752 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r021d2 rc1549931449 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 s031f3 sc6531247434 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 w011g1 wb1445771367 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 r010a2 rb2055008822 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-50 u005d2 ub1072909397 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-100 e010c5 ea6254289559 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-100 e016h4 eb0992981646 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-100 e016b3 eb0709857765 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-100 e009c1 ea4970191096 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-100 e003d2 ea1456274179 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658599 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658581 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658572 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658545 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658536 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658527 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658518 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658509 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658491 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
-200 n003f3 na3604658482 Erste Bank Elterleinplatz 4, CR, stashed 03/12/2021
+100 r003b2 rb2175689498 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 u003d2 ub1055326052 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e015c4 ea9921427714 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e010e2 ea6261672169 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e009b8 ea4889350522 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e011b3 ea7647714694 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 u003g2 ub4042022942 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e011a1 ea7600072645 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 n004f2 na2608177132 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e014b4 ea9434078983 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e010d2 ea6296750488 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 v002g2 va1913241647 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 v002a2 va1683533756 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e011e2 ea7741214389 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 n001e1 nz1500101436 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 u003e4 uc8055821215 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 r009g2 rb5863774487 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e011f2 ea7546856212 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 n004g1 na1708919146 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 n004f2 na2606271319 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 s004b5 sa2105835359 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 u003h2 ub5045642066 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e015f3 ea9668003032 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e009f2 ea4986813565 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 s003f2 sd6008099528 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e013c2 ea8647735312 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 u003d5 ud5085506232 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 r007a3 rb3238496654 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e015d2 ea9626532328 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+100 e015g2 ea9975360385 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605373 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605382 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605121 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605139 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605148 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605112 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605103 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605517 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605508 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+200 u004d5 ud5070605463 Erste Bank Elterleinplatz 4, CR, stashed 30/11/2021
+
+<202_-__-__ __:__:__>
+Wien, Austria, 1080
+- - - - - - - - - - -
+20 u027a6 ue5735415374 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s017b2 se2364718654 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 n007a6 na6108387688 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 v005i4 va2831056427 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 m004b1 mc2594034378 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r012h5 rb1628339108 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r012c1 rb2816310668 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 w001e1 wa0290339605 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u002b1 ua1027315443 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 e009f2 em1639852342 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u020g4 ud3503281329 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u025b2 ub0637323941 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u020e3 uc2523641158 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 x002f3 xa3047130477 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s014e1 sf5317612029 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 w001i4 wa1581118606 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u011h5 ue3333894929 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s013b5 sb2176849327 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s012f2 se6418310815 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u025f6 uf0649171771 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 z002e4 zc1461608906 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s019f1 sf6374427993 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 e006h3 ec3986107226 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r006h2 ra3303526623 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r010d3 rb1198031054 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 e006d4 ec3153172985 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 x002b5 xa1649612574 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 x003f4 xa2130796755 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u021e5 ue0536855768 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r013c6 rb3140709341 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u033g1 ua6804932403 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 e013b3 en1870578807 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u018d3 uc1449126766 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r021d5 rp5230063098 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 e005e3 ec1700770517 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 n008g2 na2716494877 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s013i2 se9179026219 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s005c5 sb3116290378 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s013a6 sa1259882015 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 r013c6 rb2734067867 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u025f5 ue1647618281 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u018c3 uc0432214552 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u023h4 ud4585998123 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 z002b3 zc2165828369 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 z002h4 zc1766777153 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s012e4 sc5255296626 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s014f2 se6316658029 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 u018b4 uc8449971346 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 s017b1 sf2338166349 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+20 m004d5 mc2722039713 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u029g5 ud8558017983 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 r022c4 rc2147586574 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 w013g2 wb3859617015 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 v014d2 vb4578567607 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u004e2 ub2052830783 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 r023d5 rc3272835802 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 v016g5 vb7310552257 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u020a2 ua8481553005 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 w007f3 wa6057268282 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u009f5 ud7178797701 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 e008h4 eb3638432151 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 r031g5 rd1411598478 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 w006c3 wa5316568264 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 s012d1 se4171306276 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 s026a1 se1397269288 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u015g2 ub4286925659 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 r014d1 rb3724603637 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 w005d5 wa5492853856 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 z021c2 zc3253785755 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 p004a3 pb3368249602 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 r004b1 ra2803081407 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u006e2 ub2095393952 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 s029f5 sa6511439705 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u030f2 ub3627596504 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 p004c2 pb4132702177 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u008d3 ub9142020227 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 s021h1 se8429120758 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 w011g4 wb1016935146 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u022a1 ua0503844843 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+50 u006d2 ub1127857259 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 n004b2 na2212922413 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 v004b3 va4047387104 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 v002h4 va1716783617 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 e004c4 ea2053592002 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 u003e3 uc0045202681 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985072 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985063 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985054 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985045 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985036 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985027 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008c5 sa3070985018 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008e1 se5070983221 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008e1 se5070983212 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
+100 s008e1 se5070983203 Erste Bank Alser Straße 23, CR, stashed 04/12/2021
