@@ -1,648 +1,288 @@
 <202_-__-__ __:__:__>
-Graz, Austria, 8010
+Herzogenburg, Austria, 3130
 - - - - - - - - -
-5 n018h6 nb6811675677 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v008j5 vb2175985072 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200757 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200748 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200649 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200631 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200604 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200613 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200595 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200568 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200532 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201521 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201512 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032200936 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200721 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200712 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200559 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200541 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201503 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201494 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201485 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201476 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j3 na3032201467 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014j2 na2032200739 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018a3 nb3102582924 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v002d1 va3743265467 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s002i4 sc9109981947 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z005c6 zb0262750623 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018f6 nb6611681574 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010g4 vb5398498099 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018g3 nb3701669463 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v011g1 vb7141337866 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s002e2 se5116404952 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v008g5 vb2697490513 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010d4 vb4480538707 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003e5 ya2907123587 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y004b4 ya3335275907 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u008e5 ue4186387619 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z004c4 zb2254741026 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010a3 vb4763296873 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 w002f1 wa3513162475 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018h5 nb5808781161 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010j5 vb4455588133 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014a6 na6132216628 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 w001d1 wa1301945239 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v008h1 vb2827651888 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n017i5 na5939124715 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y004d6 ya3705615917 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006c2 ya5338736747 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v001g3 va1059613796 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010f3 vb5393269756 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u004b1 ua1091700435 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006i2 ya5083031393 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v006a2 va9484266296 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s003j2 se0037547155 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z003e6 zb0401762364 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005a1 tc2496341486 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y005g5 ya4489902305 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v004f2 va6454013339 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003e2 ya2133102833 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p005d5 pa7017716753 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e002e1 ea2589405715 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y003e6 ya2362348547 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u001f2 ub4010545307 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 x003c2 xa3859428816 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u004a1 ua0105000429 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f002c6 fa2123198208 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e001d6 ea1022946823 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 t003f5 ta0934789486 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p005d2 pa6748747649 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e006g4 eb1767711384 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s003h5 sb8051183194 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u010e3 uc2254027384 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n006f2 na2633302702 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y008d5 ya5176292003 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y008d1 ya4895768663 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u012f6 uf0317588317 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 t001i4 ta0272982991 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y009b2 ya5971467194 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w002f2 wa2849291506 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u005a6 ue5167392731 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p004i6 pa5534827982 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 x002a2 xa2785105755 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 x002b3 xa2825630325 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e006e1 eb3048768468 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n002h1 na1802192266 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s002d1 sf4019068152 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n006h5 na5830283575 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w001d5 wa0683301538 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n002e3 na3500918812 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 r012h4 rb1566184253 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u022d2 ub2588199194 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 x001a3 xa3579193233 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 s007b6 sa2057725904 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 m004c4 mc2406457125 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u004d2 ub2062600832 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u016c5 ud8422439544 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 e005h4 ec1773039509 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 x003e6 xa0426160548 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u001g5 ue2005058681 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v001b1 va1691616944 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006h6 ya5611256216 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n015d4 na4436045938 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006h1 ya4933798415 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004d5 ma1213367465 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v008d5 vb2199113992 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 w002a3 wa3860340877 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z020f3 zd3526254652 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y001c2 ya0838644335 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014c2 na2327256019 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s001g5 sb7020490306 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010h5 vb5103245314 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 w002i4 wa3765244726 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m003e4 ma0744732335 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v012j3 vb8057066743 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006h4 ya5239638008 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n008d2 na2408373559 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u006h5 ue7144327916 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s003h6 sa8037075731 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005f1 tc3044946053 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u002f4 ud5022564705 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z003g2 zb4609666113 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014f1 na1616850451 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z004i4 zb2844174822 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v008j5 vb2175703867 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y004e3 ya3651352667 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v012f5 vb8631717625 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z004i6 zb0829579758 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006i2 ya5298892811 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s002i2 se9109543447 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006j1 ya5220421064 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v001g5 va0697122695 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003h2 ya2635295939 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005d4 tc3367748495 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018g5 nb5714599986 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u008j2 ub9187229927 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018i5 nb5911471737 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004h1 ma2157858245 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003f5 ya2186996417 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018i4 nb4001124051 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004e1 ma1794457118 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003b4 ya2146910183 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004i5 ma1998753923 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z020a2 zd4033761538 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s003f1 sf6037552467 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003i6 ya3019005476 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v006b4 va9248340557 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014b3 na3232058284 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005i6 tc2916244406 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t004h1 tc0629293844 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003g1 ya2666204036 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v005j3 va7557577175 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004c1 ma1672273217 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u006f5 ue5148505394 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v011j3 vb7277810032 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v006h6 va9282597536 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s002g2 se7042384954 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v001c4 va1514028962 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006h6 ya5503605137 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005h1 tc2426222819 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f001i1 fa0156065949 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p001c1 pa1106159903 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u012g4 ud3332515581 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s002i1 sf9017172765 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v006c1 va7145073326 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f001h5 fa0910259586 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f001i2 fa0265203045 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n012a1 nb1115771256 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f003h3 fa2906540091 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f002e6 fa1757030022 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u005c5 ud8125127469 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w009i6 wb1562460255 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e003b2 ea3328333435 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 t004f1 ta1651334665 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p002h5 pa2597958692 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y002f1 ya1233086246 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w004d3 wa3740371462 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w001d3 wa0618349537 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v009a5 vb0693732133 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w007i6 wa9931248145 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 x002d3 xa2277024894 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f001c2 fa0121688046 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p005h4 pa8041282784 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n005c4 na4318222402 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p003g1 pa4351981094 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e005a2 eb0379352493 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w001i2 wa1491880078 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p003f2 pa3924547901 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e007e3 eb4454013204 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s002a4 sc1015369059 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f002i2 fa1669807755 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v010g3 vb1649026738 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y003a6 ya1878845192 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w002a3 wa2498599657 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p005a1 pa6621695549 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 u008i4 ud5170129218 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y001d2 ya1110258593 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 x001d5 xa1559411775 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e007i4 eb4047224994 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s003a5 sb1040453158 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u021b4 uc8558655418 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u032g3 uc4795934113 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 s008g2 se7231458754 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 m004i5 mc3375202005 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u006a2 ua9143577354 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u033a6 ue5803856288 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 r002d1 ra0266477856 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 w001g2 wa1481489155 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 e013c1 en1902024024 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 w001i3 wa0515092069 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u002d6 uf3021277795 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v008d5 vb2619266824 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s006c6 sa3069843791 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010g6 vb4496487589 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v005i5 va7549511285 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006a6 ya5615501597 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 w001i5 wa1895370085 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v005c3 va8475509909 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v011a6 vb6980717206 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018g5 nb5711660775 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n014b2 na2232059896 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v006e3 va9387448022 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v004a2 va5644495811 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u006c2 ub2142773012 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004b2 ma2141862554 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006e5 ya5463392777 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018e3 nb3501800307 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 w002d1 wa3651908383 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018b6 nb6200652303 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018i1 nb1901648538 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v012a1 vb8065830457 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010h1 vb4687957945 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004c5 ma1032584141 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004f1 ma2275119866 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v001g6 va0936188804 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v013g1 vb9541814563 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004g3 ma1836546527 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z003a3 zb3001730973 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y005g6 ya4208111513 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u006i4 ud8156244573 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018d2 nb2402908497 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018j4 nb4012081983 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004c6 ma1802551322 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 u002e6 uf4014301093 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004f5 ma2055286073 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s003f5 sb6029278834 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018a4 nb4111650288 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y001e4 ya0129122288 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 z020b4 zd2120810719 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018h5 nb5810195223 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006b1 ya5225267663 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010e4 vb4726445329 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006e1 ya5151511619 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y004b3 ya3473369045 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s002g4 sc7105426716 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010c6 vb4712820391 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004b1 ma2151932717 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y003b3 ya3041336636 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s006d5 sb4128881323 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010f2 vb4614415975 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 m004e5 ma2114646716 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s001g3 sd7021128476 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005i6 tc3517875758 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 t005f6 tc2947168937 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 s001i3 sd9016149782 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n018e4 nb4511669715 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 y006j3 ya5340448403 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n023b5 nd5227327978 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 v010g4 vb4858604353 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-5 n020e5 nc5524901144 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w001h1 wa1282698847 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 t001f6 ta0483462121 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n006d3 na3430812916 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w002d5 wa2821708918 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v007a5 va8101516349 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f002a5 fa2056881393 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v009c3 vb0545024575 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f001e1 fa0510223374 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v009g6 vb0566368876 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e007g3 eb3710075463 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p002b6 pa3164634845 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 n005g2 na2719425313 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 x002h6 xa4775688936 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w006f1 wa6694873012 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w004d1 wa3659703175 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e007d6 eb3533280723 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 f002e5 fa2080238922 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s002f5 sb6013974424 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y003d2 ya2211943121 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 y006e5 ya3879908621 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e003d6 ea3452912812 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w001a4 wa0093748627 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 t004i2 ta1714457533 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 r001i4 ra0632435235 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 e003f2 ea4000103434 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w003e1 wa3925201942 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 v009e2 vb1422525484 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 w001e6 wa0891692389 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 p002d3 pa1837503323 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-10 s003b6 sa2105714156 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u022i3 uc6548388472 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 s010c6 sa3156099665 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u025b5 ud7665835806 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u021i3 uc6557546539 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 x001g6 xa0282490902 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u029e1 ua4715259681 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 u011f3 uc3340049671 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 x002g5 xa1149253056 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 z020c2 zc3284406194 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-20 s014c1 sf3323524401 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 25/02/2022
-100 u003a5 ud2087571321 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e011e4 ea7623068707 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e008a4 ea4003402402 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e008g4 ea3833518843 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e008a4 ea4763224405 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e008d3 ea3817609975 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 n004f2 na2602786816 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 u003h3 uc3060571213 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 n004c3 na3303942922 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e015g4 ea9980254594 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 u003e2 ub2072301779 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e015e1 ea9642522205 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 r009f2 rb5975533769 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e016a3 eb0690099993 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e008b3 ea4727250181 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 n004c3 na3302815789 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e011f1 ea7585174819 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 u003f4 uc9064026379 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 v002e4 va1661213153 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e001f4 ea0028370449 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 n004g3 na3702472831 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 e008c2 ea3811282408 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 r008h4 rb5174231045 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 r006a2 rb4357928849 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-100 r006f1 rb3931685141 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u008i1 ua8187219912 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z006g4 zb2665461111 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010d1 vb4303303669 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010i4 vb4450388482 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006a3 ya5129980649 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u007c1 ua2166434391 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z020h6 zd0729102307 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v007a5 vb0561574414 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m005i1 ma3290162105 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003g6 ya2516372837 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004f6 zb0555571968 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t003f4 tc0348359501 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018e1 nb1511425872 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006a4 ya5135778035 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008j4 vb2776849075 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003b2 ya3035084111 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u008b2 ub1178780384 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018h1 nb1811838285 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008d4 vb1960834249 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018b5 nb5213725794 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z020e6 zd0429119977 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n021a3 nc3140943776 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018c5 nb5300994375 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y001a4 ya0563869466 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y005g5 ya4202221706 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s001h4 sc8000339457 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018g3 nb3702396537 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n021b1 nc1240939691 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y001b4 ya0059029316 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008d5 vb2439729856 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004i5 ma2178969221 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014f2 na2619152218 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u006d4 ud3157853508 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n019a5 nb5120499717 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v012c1 vb8017449427 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w001e6 wa0083039383 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n020g3 nc3725468828 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s001h1 sf8028111591 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003b5 ya2152999898 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v004f3 va6873847058 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t005g2 tc3138728438 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003d6 ya2697874829 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003i2 ya3030840953 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018i3 nb3911887935 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014f5 na5616378424 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t003g1 tc0035809481 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v011d6 vb7058379898 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004i3 zb3846208056 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004e5 ma1034696918 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006b5 ya4997033477 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w002c1 wa4421372554 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004f2 zb4547719824 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u008b6 uf1180520395 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004e3 zb3457127328 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u006h3 uc7120438885 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v002f1 va3815818976 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v003c6 va5112309584 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t005a6 tc3593318114 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014e1 na1531730566 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006h2 ya4939674344 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f004b3 fa3680687412 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n006d2 na2430400015 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y008b1 ya5739389432 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 t004d3 td0776325934 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w002c6 wa2118567673 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y001b4 ya1154773925 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f002f2 fa1597518711 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e007f1 eb4188285432 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p002e4 pa3015030977 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s003e6 sa5068303259 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s004b2 se2091204532 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w009i3 wb1491120306 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e003a4 ea4080285649 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 v007h5 va8143064012 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w001c5 wa0503337079 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p003f6 pa4282525556 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y001g5 ya0962954216 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w006g2 wa7046496469 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p004g5 pa6503829614 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f001f1 fa0030391974 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 v006e4 va6452794208 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f004h5 fa3718714392 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f002c2 fa2227573494 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w008f2 wb0269178903 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s003a5 sb1040686393 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n002c2 na2314773712 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f003g6 fa3119872338 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n005a3 na3117382174 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 v001i4 va0320749364 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f001g4 fa1173873537 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 x002b6 xa0766682604 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u013e6 uw9365128649 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u018d2 ub2462353994 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u019e1 ua4469114451 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 w001e4 wa0260774074 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u014d6 ue8254417058 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 s010h2 se8155915462 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 r008a3 ra6123238827 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 v006d5 va3750158846 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 s004b3 sd2049720212 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014e3 na3533243518 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n011g5 na5711899438 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014b4 na4231759825 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y004h5 ya3265530155 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y002c5 ya1468466936 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003c4 ya3010747841 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018i3 nb3912102927 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s002f5 sb6111380578 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014h3 na3821220766 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u007e3 uc4160768491 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004e6 zb0456448776 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014e6 na6527510137 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t002f1 tc0049146545 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z020d6 zd0325270606 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004i3 zb3855994278 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004b4 ma1341677576 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014j2 na2035358011 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m005c6 ma2710395821 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t004f5 tc1048151099 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w002h6 wa3054874591 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w001f1 wa0883107757 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004b2 ma1421900678 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018e3 nb3513270033 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t005j5 tc3407604131 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n004g3 na3702873556 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014c2 na2331630136 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018f4 nb4611512547 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z020g6 zd0622243273 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v012j6 vb8054447734 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n004j5 na5003032285 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006h5 ya5893338167 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u005d6 uf3122102392 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n023b2 nd2227391323 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u007f2 ub5168359703 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y004i4 ya3402673667 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004a3 ma1110664154 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v012j6 vb8234093071 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n008b4 na4209004144 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014d6 na6418222021 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n008g3 na3706770988 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u005h1 ua7090361238 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y005d1 ya4143923684 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004e6 zb0435191793 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018a1 nb1101865797 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w001i5 wa0905312773 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003a2 ya3035699369 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m006f2 ma4427914556 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y001e2 ya0873181367 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004g1 ma1076301425 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008g6 vb2816181514 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010d5 vb5019982012 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008h4 vb2404509553 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w001d1 wa2601992683 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018e6 nb6512064102 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w001j6 wa2326005766 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n020a2 nc2125484819 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y004c3 ya3760273295 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004d2 ma1243218242 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n023f6 nd6627387751 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s003a3 sd1030452446 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u012e4 ud1317523032 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e006c5 eb2392199262 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f004f6 fa3977070669 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u006e2 ub3145614176 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w003g1 wa4405492126 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w003e1 wa3926101933 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n002e5 na5507561512 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w001c2 wa0395525953 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p002f4 pa2488042223 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y008f1 ya5574757931 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 t004a3 ta1881216751 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e007b1 eb3462749406 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s003c4 sc3053786619 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u006b3 ub9246899819 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n005c3 na3318204781 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 x001g4 xa1499790681 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e006d2 eb2665445526 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p005f5 pa7577788814 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w005b1 wa5521173445 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u011b4 uc8301703672 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e006d6 eb2183585949 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p005f5 pa7572751622 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 t004c3 td0242457517 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f002e4 fa1971686286 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y001b4 ya1057310666 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f001c3 fa0338628861 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s002c6 sa3021121274 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f001f6 fa0467425053 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s002h1 sf8045060832 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y008d6 ya5019646733 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s003i6 sa9049837415 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s003a5 sb1053489739 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f001c3 fa0338628888 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u011b4 uc8289030826 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 v009h3 vb0683379262 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f001i2 fa0535223979 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w009h1 wb3719055375 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p002c1 pa2183076359 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p006a5 pa9148563494 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u002a3 ub8047243226 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u012f4 ud2238809814 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u026g3 uc4656137617 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u004g4 ud3280698234 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 x002g5 xa1155196836 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 m003h3 mc1336046868 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 e005c3 ec2606118803 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 z020e4 zc1494242321 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 s006g1 sf7066696293 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 t003b6 tc0525324179 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u005e4 ud1117532781 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v004d1 va6683592728 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018c5 nb5312081403 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u003j4 ud9064359657 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018c2 nb2312398179 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y005f1 ya4286710295 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010i6 vb5108050297 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003d1 ya2595839831 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010f2 vb5154963049 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y001h4 ya0379352654 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004g3 ma1416392039 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n019e1 nb1520209539 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u003a2 ub0068956337 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004g5 ma1036967555 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014c3 na3332212624 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m005c5 ma2762102333 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006i6 ya5214681575 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u007g5 ue6166839257 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018a2 nb2106958104 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018b2 nb2205262818 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008h4 vb2464854274 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z003g3 zb3619777038 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n019g5 nb5720446566 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s002b4 sc2105370003 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y003b4 ya2902987799 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z020h1 zd5724474259 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v008e6 vb2624042116 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010g4 vb4558345651 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v012b1 vb8251050979 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s001f4 sc6100705146 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v005a1 va8285234798 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v012b6 vb8366075911 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v005a3 va8283528875 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004g6 ma1506404351 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018d5 nb5411636532 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n021a1 nc1144311389 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u004i2 ub8088128273 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y005e3 ya4227203384 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z020h3 zd3726328855 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n004b5 na5202262162 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n020b1 nc1225437353 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004d1 zb5329831515 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m006a2 ma5303651717 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u006j4 ud9144194706 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u006h2 ub7143983813 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 t005g5 tc4036848788 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u002g2 ub6033367955 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 s003h1 sf8029486107 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 z004g4 zb2647978611 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018j1 nb1013882481 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014a6 na6131760067 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n018b6 nb6211858869 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 y006f2 ya5048742851 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v004h2 va7306424813 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 n014j6 na6030330778 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 m004h4 ma1287055163 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v002a2 va2704415339 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 w001e1 wa0282517849 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 v010d1 vb5443429663 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u008j1 ua9187373685 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-5 u008g3 uc6187623319 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u011b3 ub9297906005 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n006d1 na1430898499 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 v008c6 va9516265823 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p004g2 pa5699422502 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p004a5 pa5997763655 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 u011d1 ua3289613268 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w004f2 wa4167923959 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p001d5 pa1472327639 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y007c5 ya4820601464 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n005g5 na5718238093 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w001d5 wa0684425305 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w001f6 wa1071428851 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f002c6 fa1421854218 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 f003b6 fa3089369232 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n015b1 nb1221929334 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 y007b5 ya4821041951 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w001f2 wa0955173115 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w002a3 wa2497640797 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p004b1 pa6093673874 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s002h5 sb8024767069 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 s003b3 sd2065334843 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 e006c4 eb2877475509 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 v007c6 va8166793583 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w005i1 wa7640533756 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p003f2 pa3925754054 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p006f4 pa8564812379 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 t001i5 ta0360079465 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 p002c1 pa2182627619 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 n015e4 nb4529440935 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-10 w003i6 wa5084240824 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 r010b5 rb0018127112 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 m003h6 mc0661690179 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 r014c6 rp1223861121 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u019e5 ue0450292157 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u010a2 ua9227952174 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 u034i1 ua8771845674 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 e005g6 ec1823653718 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 s003h2 se8104962232 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 m003d5 mc1260633897 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
-20 s007h5 sb8060572966 Steiermärkische Sparkasse Hauptplatz 1, CR, stashed 26/02/2022
+10 u012d4 ud0311299956 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v010a2 vb1938548188 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015g3 nb3736310085 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v006g1 va6845531996 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p003f3 pa4014552464 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u001c1 ua2013412404 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002c5 xa2100918699 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e006f1 eb2838897891 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002a6 fa2327064318 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p005b1 pa7175685671 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u011d1 ua3294033303 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w002f1 wa2245683772 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y002c2 ya4512635108 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s004e1 sf5090744691 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n002a3 na3100932937 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e007d2 eb3583393623 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v006e5 va7585110182 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u011b4 uc8282610415 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006h5 pa9219329891 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f004i3 fa4424378238 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004f4 ea5784702355 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001i1 wa1455591331 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015i3 nb3922746966 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w002i3 wa2906873731 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006h4 na4829027635 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015b4 nb4228102584 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015d4 nb4432206924 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e003h5 ea3097939942 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y009g5 ya6114214268 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p003a2 pa3878869571 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x003i4 xa3645645444 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001d1 wa0555853816 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v006b5 va6487348664 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001b6 wa0345185713 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u010f1 ua5268499662 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001i5 wa1575658702 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e007g3 eb4520874312 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006f4 na4629026989 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001c5 wa0496527958 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e005g4 eb1335342024 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y008h3 ya5746589369 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f001e2 fa0403306056 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001c3 wa0446474287 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w006c4 wa5946576796 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w006c5 wa6010249231 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y003g2 ya1821195062 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w006b5 wa7900234939 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u006b5 ud7151732568 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004h3 ea4715069239 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015b6 nb6226191045 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u003d6 ue8064739268 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p003i4 pa3591442124 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w004d1 wa3648862801 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002a6 fa2489510718 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p004b4 pa5820426773 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w006i2 wa7662161584 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002i6 xa2926287612 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f001g2 fa0901503171 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s003c2 se3067773184 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004a3 ea5699483605 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u012g3 uc4319626186 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x003b2 xa3594793797 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x001c5 xa0750499434 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015a6 nb6130557594 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u006e1 ua4156246344 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e006f4 eb2679952059 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e002a4 ea2622015604 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e001e2 ea0322829245 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006h5 pa8139726161 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002h1 xa2706288615 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 u010c2 ub1343409473 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 r003a2 ra1311835578 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 m005f6 mc3497927202 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 e004c3 ec0446275511 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 z020c4 zc1289507306 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006i6 pa9317294315 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p005a5 pa7019685944 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w008h2 wb0388657539 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v009e2 vb0666322768 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e007c2 eb4549340259 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e007e3 eb4076707302 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006b6 pa8704966031 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v001f1 va0467101568 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x003c6 xa3769408071 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 t001c3 ta0243866443 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x003g3 xa4152294666 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u007c6 ue7222457213 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y008g1 ya5282666126 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002b3 xa2285337366 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002d1 fa1962849456 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001g3 wa1144281592 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v006b5 va7459176071 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u012g4 ud3320659197 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x001h5 xa0999578745 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e006d2 eb1585343484 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u009a1 ua0201344646 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004e5 ea4645566298 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p001c3 pa1285583147 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006g1 pa8848121615 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006g6 na6735615553 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u011a2 ua9296565699 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002i5 fa1888063767 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y003e3 ya2022011216 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004d4 ea5448181474 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f001h2 fa0043300188 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v001h4 va0692090327 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n002b2 na2205806356 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001h6 wa1435742128 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002i1 xa2432203911 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e005e6 eb1271801961 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015d1 nb1423181484 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y007d6 ya4890426974 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e001a2 ea0676100251 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p005a4 pa7436443499 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p002b5 pa3077281754 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w003e1 wa3923852158 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u006d5 ud9244216404 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p002f2 pa2306690882 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v002a3 va1029111491 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y003i2 ya2046721436 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002h2 xa2751809391 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s003f2 se6051219823 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p003f5 pa4190532749 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x003b6 xa3772963557 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y002h1 ya1750649948 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001g1 wa1100093212 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001c3 wa0440274475 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002d2 xa1691867502 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y007g2 ya4575198995 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w003h6 wa4843626805 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s002f5 sb6016166959 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p002g5 pa3122675342 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e002g6 ea2066993641 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v009d3 vb0497576386 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001c5 wa0494380216 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u012a3 ub8327286911 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w005a3 wa5319827263 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e006c2 eb2227073463 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w002e3 wa2834328493 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v006c6 va7572583892 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u012i1 ua8314576248 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006a5 na5129267527 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u010a1 ua0251718618 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e005g5 eb0094640742 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n002i2 na2907585946 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e003c5 ea3823974541 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001b3 wa0269019181 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y004d5 ya2616822494 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s002i3 sd9041493773 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 t004c6 ta2675871742 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004d5 ea5233569976 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006h1 na1825867927 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p005a6 pa8158659956 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 t004g6 ta2097061519 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s002g1 sf7047284868 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 s004g6 sa7112715395 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 s017b3 sd2339022296 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 u031g6 uf1750180858 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 s018c6 sa3367868612 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 u028a2 ua9696591849 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001g5 wa1223112592 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u008c3 uc0182929618 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001b5 wa0313775659 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 t001f4 ta0846863995 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y002b3 ya1570440158 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x001i2 xa0855026352 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002g4 xa2849205753 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u007a6 ue5210105561 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p004e4 pa6399328949 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 t001e3 ta0227654536 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 t002g2 ta0650757019 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s003e6 sa5031395249 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v010c2 vb2058821218 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v006d3 va7635801413 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001f4 wa0994217302 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y009g4 ya6011825336 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v010h5 vb1923086818 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s002i4 sc9044557428 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x001b3 xa0396185787 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u001d1 ua3091874115 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006h3 na3825694036 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w009h4 wb1396549701 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001c5 wa0496734544 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y006e2 ya3701971358 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u011g3 uc4285235746 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u006d3 uc1154466487 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006d5 pa8633590343 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p004i2 pa6251046551 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v001d3 va0669117638 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p005c6 pa7098307289 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v007b6 va8322675878 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006b5 na5235745672 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001b5 wa0316446454 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y006e1 ya3502125476 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002i4 fa1995693399 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e002i3 ea1967578363 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u001f2 ub4007030456 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w002i4 wa2454536026 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 v010e6 vb2012862727 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n015a2 nb2128216653 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u007d2 ub2210481893 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w001h3 wa1340478892 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p002g1 pa2222300537 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y007b2 ya4481157761 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y001b4 ya0312164873 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004a1 ea5427098398 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e005b1 eb0276202926 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f003e4 fa3105826704 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006a6 pa8697953375 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n002c3 na3307716586 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x002f1 xa2177706528 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e004f6 ea5678640919 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006f3 pa8478683963 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 e001i6 ea1106654266 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002c6 fa2663202627 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 x001g2 xa1405063494 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 w003h3 wa4725509338 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p002f2 pa2302329761 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n010i6 nb6910681869 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u012e6 ue9332711963 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n005b2 na2218888648 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f002e4 fa1809279738 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 y003a1 ya2272930586 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 s003g3 sd7033540439 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f001h3 fa0314435295 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 n006b2 na2236390111 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p002b1 pa1633473062 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 f003e6 fa3269787714 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 u006g6 uf1247094889 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+10 p006a6 pa9233932427 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 r003g4 ra1739129631 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 u007d4 ud0293363694 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 s019c4 sc3408128949 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 s018h4 sc8400730179 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+20 s003c3 sd3004880285 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u035a5 ud2734035066 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w007d1 wa7684226947 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u003d5 ud5059922121 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u003g4 ud0059802723 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w007d3 wa7598519452 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w013d1 wb3697260075 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w002e4 wa2166880699 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e014a5 eb9404120061 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 r002a2 ra0691848987 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e014h1 eb9555164127 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 z021d5 zc0359934827 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e012g1 eb6830283348 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e012b4 eb7648460685 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e012g1 eb7070065578 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e012a3 eb6802165215 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u011f4 uc9236740015 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u018a2 ua8430619305 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 s011g1 se7090642459 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 r004h5 ra2738519385 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 v018h2 vb8678789155 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u028b3 ub7579834985 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w012d5 wb2530752624 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u032c4 uc6698445562 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u032c4 uc6698445553 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 r013c5 rc0761514889 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w006g3 wa6313159945 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u031a3 ub6665718224 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 s003g4 sb7018102084 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 z020g4 zc1638268439 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u013f4 uc9314877043 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 v007c1 va6894601292 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 s033f5 sa6732169979 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u035h2 ub5770595945 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 r032c5 rc2465594995 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 p001d4 pb1071372787 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 r022a4 rc2075504143 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 w011b3 wb1176449328 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e005h1 eb0475358139 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 e014c5 eb8854303068 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 p002f2 pb1732067566 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u008d1 ua3153007983 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 v003c4 va2371829951 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u004e5 ud6063948162 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u010h1 ua7217932908 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 r003g5 ra1733318268 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u032b3 ub7698559889 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 u030g4 ud0635305176 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 m006e2 md1508640857 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 v011d5 vb1695714643 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
+50 v008d4 va8376604571 Sparkasse Rathausplatz 9-10, CR, stashed: 06/03/2022
