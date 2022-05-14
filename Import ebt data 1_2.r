@@ -160,7 +160,7 @@ raw <- read_delim(file = "C:/Users/Thomas/Eurobanknotes/script/EBT-Bills.csv",
 
 # Setze Zeitzone auf Wien
 raw <- raw %>%
-  mutate(DateStamp = force_tz(DateStamp, "Europe/Vienna"))
+  mutate(DateStamp = lubridate::force_tz(DateStamp, "Europe/Vienna"))
 
 cat(paste0("...EBT> READ ",raw %>% count()," notes/lines\n"))
 closeAllconnections()
