@@ -1,4 +1,4 @@
-coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE) {#, count = 7) {
+coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE, onlycool = FALSE) {#, count = 7) {
   
   library(tidyverse)
   Serial <- enquo(Serial)
@@ -61,11 +61,13 @@ coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE) {#, cou
     mutate(Rating = (Solid/10)**2 + .9 * (Ladder/10)**3 + .75 * (1-Unique/10)**5 + .25 * Radar + .25 * Binary)
   
   # return only cool bills
+if(onlycool) {
   tmp <- tmp %>%
-#    filter(Solid >= count | Ladder >= count | Radar | Binary) %>%
-    filter(Rating >= .5 | Radar | Binary) %>%
+    # filter(Solid >= count | Ladder >= count | Radar | Binary) %>%
+    filter(Rating >= 1.5 | Radar | Binary) %>% # .5 old calculations
     arrange(desc(Rating)) %>%
     relocate(c(Solid, Ladder, Unique:Rating), .after = !!Serial)
+}
   
   return(tmp)
   
