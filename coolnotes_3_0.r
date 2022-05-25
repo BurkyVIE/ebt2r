@@ -42,7 +42,7 @@ coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE, onlycoo
     return(unique(tmp))
   }
   
-  # iitialise if non existent
+  # initialise if non existent
   if(!exists("coolnotes_stored")) coolnotes_stored <<- calculate(data = data, Serial = !!Serial, encore = encore)
   
   # find not yet calculated data
