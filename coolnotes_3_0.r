@@ -29,8 +29,7 @@ coolnotes <- function(data = notes, Serial = SerialPlain, encore = TRUE, onlycoo
       # mutate(across(c(LadderUp, LadderDown), ~map_dbl(., ~max(table(cumsum(. != 1)))))) %>%  # cumsum steps up by 1 if diff >1, use table to get most common non-difference
       mutate(LadderUp = map_dbl(LadderUp, ~max(table(cumsum(. != 1)))),
              LadderDown = map_dbl(LadderDown, ~max(table(cumsum(. != 1))))) %>% 
-      rowwise() %>%
-      mutate(Ladder = max(LadderUp, LadderDown)) %>%
+      mutate(Ladder = pmax(LadderUp, LadderDown)) %>%
       select(-contains(c("Up", "Down", "Vector")))  # remove helping variables
     
     # one is not a value for Solid and Ladder and make integer
