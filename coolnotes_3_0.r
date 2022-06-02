@@ -70,5 +70,6 @@ if(onlycool) {
 }
   
   return(tmp)
+  rm(tmp)
   
 }
