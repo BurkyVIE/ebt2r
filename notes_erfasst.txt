@@ -71,3 +71,8 @@ Wien, Austria, 1200
 10 u003g1 ua6064093515 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
 10 n002c2 ns2301461587 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
 10 y008c6 ya4955940467 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
+20 u019h6 uf2484980755 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
+20 v005f3 va2997587783 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
+20 s004h5 sb8034854242 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
+20 u023i4 ud5599801908 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
+20 z002e1 zc4474993253 Erste Bank Wallensteinstraße 23, stashed 08/10/2022
