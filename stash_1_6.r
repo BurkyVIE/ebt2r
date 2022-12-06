@@ -74,11 +74,11 @@ stash_split <- function (chunks = 14, size = NULL) {
     if(nc %% size == 1 | bc %% 25 == 1 | !loc) {
       export <- c(export,
                   paste0("\n<202_-__-__ __:__:__>     ", ifelse(nc %% size == 1, "Start ...\n", "... continue\n"),
-                         pull(stash[i, "Loc"]),
+                         pull(stash[nc, "Loc"]),
                          "\n- - - - - - - - - - -"))
       bc <- 1
     }
-    export <- c(export, pull(stash[i, "Note"]))
+    export <- c(export, pull(stash[nc, "Note"]))
     loclast <- pull(stash[nc, "Loc"])
     nc <- nc + 1
     bc <- bc + 1
