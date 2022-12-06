@@ -4,10 +4,8 @@ stash_read <- function() {
   library(tidyverse)
   
   # Einlesen des Files ----
-  # tmp <- read_lines(paste0(EBT_global$whereis, "/_REC/notes2enter.txt"),
-  tmp <- read_lines("_REC/notes2enter.txt",
-                    # locale = locale(encoding = "WINDOWS-1252"),
-                    locale = locale(encoding = "UTF-8"),
+  tmp <- read_lines(paste0(EBT_global$whereis, "/_REC/notes2enter.txt"),
+                    locale = locale(encoding = "WINDOWS-1252"),
                     lazy = FALSE)
   
   # Initialisiere Schleife ----
@@ -58,10 +56,8 @@ stash_split <- function (chunks = 14, size = NULL) {
   if(is.null(size)) size = count(stash) %/% chunks
   
   # Dateinamen
-  # main <- paste0(EBT_global$whereis, "/_REC/notes2enter.txt")
-  # sicher <- paste0(EBT_global$whereis, "/_REC/notes2enter_sicherung.txt")
-  main <- "_REC/notes2enter.txt"
-  sicher <- "_REC/notes2enter_sicherung.txt"
+  main <- paste0(EBT_global$whereis, "/_REC/notes2enter.txt")
+  sicher <- paste0(EBT_global$whereis, "/_REC/notes2enter_sicherung.txt")
   
   # Umbennen Originalfile (Sicherung) ----
   file.copy(from = main, to = sicher, overwrite = TRUE)
