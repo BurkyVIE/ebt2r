@@ -70,7 +70,7 @@ stash_split <- function (chunks = 14, size = NULL) {
   export = NULL # Aufbau File vor Schreiben
 
   # Zeilenweises Schreiben und Aufteilung ZIP, Blockgröße max 25 ----
-  while(count(stash) >= nc) {
+  while(nc <= count(stash)) {
     if(nc %% size == 1 | bc %% 25 == 1 | !loc) {
       export <- c(export,
                   paste0("\n<202_-__-__ __:__:__>     ", ifelse(nc %% size == 1, "Start ...\n", "... continue\n"),
