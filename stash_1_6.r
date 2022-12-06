@@ -64,33 +64,25 @@ stash_split <- function (chunks = 14, size = NULL) {
   
   # Initialisierung ----
   file.create(main)
-  nc = 1 # Numbercount
+  nc = 1 # Numbercount (auch Schleife)
   bc = 1 # Blockcount 
   loc = FALSE # Location breaker
   export = NULL # Aufbau File vor Schreiben
-  
+
   # Zeilenweises Schreiben und Aufteilung ZIP, Blockgröße max 25 ----
-  while(count(stash) > 0) {
+  while(count(stash) >= nc) {
     if(nc %% size == 1 | bc %% 25 == 1 | !loc) {
-      # write(
-      #   x = paste0("\n<202_-__-__ __:__:__>     ", ifelse(nc %% size == 1, "Start ...\n", "... continue\n"),
-      #              stash %>% head(1) %>% pull(Loc), 
-      #              "\n- - - - - - - - - - -"),
-      #   file = main, append = TRUE)
       export <- c(export,
                   paste0("\n<202_-__-__ __:__:__>     ", ifelse(nc %% size == 1, "Start ...\n", "... continue\n"),
-                         pull(stash[1, "Loc"]),
+                         pull(stash[i, "Loc"]),
                          "\n- - - - - - - - - - -"))
       bc <- 1
     }
-    # write(x = stash %>% head(1) %>% pull(Note),
-    #       file = main, append = TRUE)
-    export <- c(export, pull(stash[1, "Note"]))
-    loclast <- pull(stash[1, "Loc"])
-    stash <- tail(stash, -1)
-    loc <- loclast == pull(stash[1, "Loc"])
+    export <- c(export, pull(stash[i, "Note"]))
+    loclast <- pull(stash[nc, "Loc"])
     nc <- nc + 1
     bc <- bc + 1
+    loc <- loclast == pull(stash[nc, "Loc"])
   }
   
   # Schreiben ----
