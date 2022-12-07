@@ -64,14 +64,14 @@ stash_split <- function (chunks = 14, size = NULL) {
   # Umbennen Originalfile (Sicherung) ----
   file.copy(from = main, to = sicher, overwrite = TRUE)
   
-  # Initialisiere ----
+  # Initialisiere gesplitteten Stash----
   stash_exp <- transmute(stash,
                          Loc, Note, Stashed,
-                         nr = row_number(),
-                         nc = nr %/% size,
-                         nb = nr %/% 25) |> 
+                         nr = row_number(), # durchnumerieren
+                         nc = nr %/% size, # Gruppe für Chunks
+                         nb = nr %/% 25) |> # Gruppe für Blocks
     group_by(Loc, Stashed) |> 
-    mutate(loc = cur_group_id()) |> 
+    mutate(loc = cur_group_id()) |> # Gruppe für Location (in Verbindung mit stash-Datum)
     ungroup() |> 
     group_split(nc, nb, loc)
 
