@@ -4,8 +4,10 @@ stash_read <- function() {
   library(tidyverse)
   
   # Einlesen des Files ----
-  tmp <- read_lines(paste0(EBT_global$whereis, "/_REC/notes2enter.txt"),
-                    locale = locale(encoding = "WINDOWS-1252"),
+  # tmp <- read_lines(paste0(EBT_global$whereis, "/_REC/notes2enter.txt"),
+                    # locale = locale(encoding = "WINDOWS-1252"),
+  tmp <- read_lines("_REC/notes2enter.txt",
+                    locale = locale(encoding = "UTF-8"),
                     lazy = FALSE)
   
   # Initialisiere Schleife ----
@@ -34,10 +36,12 @@ stash_read <- function() {
   stash <<- stash
   
   # Kurze Auswertungen ----
-  cat(paste0(count(stash), " bills stashed"))
-  cat(paste0(" - duplicates = ", stash |>  pull(Serial) |>  duplicated() |>  any()))
-  cat(" - history:\n")
+  cat("stash:\n")
   print(stash |>  count(Stashed, ZIP) |>  as.data.frame())
+  cat("\n")
+  cat(paste0(count(stash), " bills stashed"))
+  cat("\n")
+  cat(paste0("duplicates = ", stash |>  pull(Serial) |>  duplicated() |>  any()))
   cat("\n")
 }
 
@@ -56,8 +60,10 @@ stash_split <- function (chunks = 14, size = NULL) {
   if(is.null(size)) size = count(stash) %/% chunks
   
   # Dateinamen
-  main <- paste0(EBT_global$whereis, "/_REC/notes2enter.txt")
-  sicher <- paste0(EBT_global$whereis, "/_REC/notes2enter_sicherung.txt")
+  # main <- paste0(EBT_global$whereis, "/_REC/notes2enter.txt")
+  # sicher <- paste0(EBT_global$whereis, "/_REC/notes2enter_sicherung.txt")
+  main <- "_REC/notes2enter.txt"
+  sicher <- "_REC/notes2enter_sicherung.txt"
   
   # Umbennen Originalfile (Sicherung) ----
   file.copy(from = main, to = sicher, overwrite = TRUE)
@@ -69,6 +75,9 @@ stash_split <- function (chunks = 14, size = NULL) {
   loc = FALSE # Location breaker
   export = NULL # Aufbau File vor Schreiben
 
+  # Verlauf ----
+  cat("                   <---'----'----'----'---->\nsplitting stash... ")
+  
   # Zeilenweises Schreiben und Aufteilung ZIP, Blockgröße max 25 ----
   while(nc <= count(stash)) {
     if(nc %% size == 1 | bc %% 25 == 1 | !loc) {
@@ -80,15 +89,18 @@ stash_split <- function (chunks = 14, size = NULL) {
     }
     export <- c(export, pull(stash[nc, "Note"]))
     loclast <- pull(stash[nc, "Loc"])
+    if(nc %% floor(count(stash) / 25) == 0) cat ("°")
     nc <- nc + 1
     bc <- bc + 1
     loc <- loclast == pull(stash[nc, "Loc"])
   }
   
+  cat(" DONE!\nwriting File ...") # schließt Verlauf ab
+  
   # Schreiben ----
   write(x = export, file = main)
   
   nc <- nc - 1 # Korrektur für folgende Berechnungen
-  cat(paste0("DONE! ", nc, " bills were split into ", nc %/% size, " chunks á ", size, ", residue ", nc %% size))
+  cat(paste0(" DONE!\n\n", nc, " bills were split into ", nc %/% size, " chunks á ", size, ", residue ", nc %% size))
   beepr::beep(2)
 }
