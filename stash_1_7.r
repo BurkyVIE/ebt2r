@@ -64,21 +64,20 @@ stash_split <- function (chunks = 14, size = NULL) {
   # Umbennen Originalfile (Sicherung) ----
   file.copy(from = main, to = sicher, overwrite = TRUE)
   
- # Initialisiere gesplitteten Stash----
+  # Initialisiere gesplitteten Stash----
   stash_exp <- transmute(stash,
                          Loc, Note, Stashed,
                          nr = row_number()) |> # durchnumerieren
-    group_by(ordered(paste(Stashed, Loc))) |>  # Gruppe für Loc (in Verbindung mit stash-Datum); eventuell bringt das bei mehreren Loc an einem Datum die Reihenfolge in Reihung ZIP
-    mutate(loc = cur_group_id(),
-           nr_loc = row_number()) |>
-    group_by(loc, chunk = (nr - 1) %/% size) |> # Gruppe für Chunk (innerhalb Loc)
-    mutate(nr_chunk = row_number(),
-           chunk = cur_group_id()) |>
-    group_by(chunk, block = (nr_chunk- 1) %/% 25) |> # Gruppe für Block (innerhalb Chunk); HIER Blockgröße = 25!!!
-    mutate(nr_block = row_number(),
-           block = cur_group_id()) |>
-    ungroup() |>
-    group_split(block)
+    group_by(loc = ordered(paste(Stashed, Loc))) |>  # Gruppe für Loc (in Verbindung mit stash-Datum); eventuell bringt das bei mehreren Loc an einem Datum die Reihenfolge in Reihung ZIP
+    mutate(nr_loc = row_number()) |> 
+    ungroup() |> 
+    mutate(nr_chunk = (nr - 1) %% size + 1,
+           x25 = cumsum(nr_loc == 1 | nr_chunk == 1)) |> 
+    group_by(x25) |> 
+    mutate(nr_25 = (row_number() - 1) %% 25 + 1) |> 
+    ungroup() |> 
+    mutate(breaker = cumsum(nr_25 == 1)) |> # erweitert um size (= chunk) ...
+    group_split(breaker)
 
   # Export Funktion ----
   export_stash <- function(x){
