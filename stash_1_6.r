@@ -95,7 +95,7 @@ stash_split <- function (chunks = 14, size = NULL) {
     loc <- loclast == pull(stash[nc, "Loc"])
   }
   
-  cat(" DONE!\nwriting File ...") # schließt Verlauf ab
+  cat(" DONE!\nwriting file ...") # schließt Verlauf ab
   
   # Schreiben ----
   write(x = export, file = main)
