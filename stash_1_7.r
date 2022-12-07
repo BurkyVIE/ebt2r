@@ -64,22 +64,27 @@ stash_split <- function (chunks = 14, size = NULL) {
   # Umbennen Originalfile (Sicherung) ----
   file.copy(from = main, to = sicher, overwrite = TRUE)
   
-  # Initialisiere gesplitteten Stash----
+ # Initialisiere gesplitteten Stash----
   stash_exp <- transmute(stash,
                          Loc, Note, Stashed,
-                         nr = row_number(), # durchnumerieren
-                         nc = nr %/% size, # Gruppe für Chunks
-                         nb = nr %/% 25) |> # Gruppe für Blocks
-    group_by(Loc, Stashed) |> 
-    mutate(loc = cur_group_id()) |> # Gruppe für Location (in Verbindung mit stash-Datum)
-    ungroup() |> 
-    group_split(nc, nb, loc)
+                         nr = row_number()) |> # durchnumerieren
+    group_by(ordered(paste(Stashed, Loc))) |>  # Gruppe für Loc (in Verbindung mit stash-Datum); eventuell bringt das bei mehreren Loc an einem Datum die Reihenfolge in Reihung ZIP
+    mutate(loc = cur_group_id(),
+           nr_loc = row_number()) |>
+    group_by(loc, chunk = (nr - 1) %/% size) |> # Gruppe für Chunk (innerhalb Loc)
+    mutate(nr_chunk = row_number(),
+           chunk = cur_group_id()) |>
+    group_by(chunk, block = (nr_chunk- 1) %/% 25) |> # Gruppe für Block (innerhalb Chunk); HIER Blockgröße = 25!!!
+    mutate(nr_block = row_number(),
+           block = cur_group_id()) |>
+    ungroup() |>
+    group_split(block)
 
   # Export Funktion ----
   export_stash <- function(x){
     ret <- NULL
     ret <- c(ret,
-             paste0("<202_-__-__ __:__:__>     ", ifelse(x[1, "nr"] == 1, "S T A R T ...\n", "... continue\n"),
+             paste0("<202_-__-__ __:__:__>     ", ifelse(x[1, "nr"] %% size == 1, "S T A R T ...\n", "... continue\n"),
                     pull(x[1, "Loc"]),
                     "\n- - - - - - - - - - -"))
     ret <- c(ret, pull(x[, "Note"]), "\n")
