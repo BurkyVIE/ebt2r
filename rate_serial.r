@@ -8,7 +8,7 @@ rate_serial <- function(serial = "XY0123456789") {
   D2_raw = as.integer(abs(diff(D1_raw)))
   D2 = 1 - sum(D2_raw) / 5 / (Length - 2)
   Unique = length(unique(DigitVector))
-  UF = c(2, 1, .5, .25, .125, 0, 0, 0, .5)[Unique]
+  UF = c(2, 1, .5, .25, .125, 0, 0, 0, 0, .5)[Unique]
   Radar = identical(DigitVector[1:5], rev(DigitVector)[1:5])
   Binary = Unique == 2
   
