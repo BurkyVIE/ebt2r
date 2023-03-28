@@ -29,7 +29,7 @@ rate_serial <- function(serial = "XY0123456789") {
            Radar = Radar,
            Binary = Binary,
            Rating = Solid/10 + Ladder/10 + (1-Unique/10) + .3 * Radar + .5 * Binary,
-           Rating2 = (4 * D1 ** 2 + D2 + SF) * (1 + .5 * (Radar | Binary)) / 5
+           Rating2 = (4 * D1 ** 2 + D2 + UF) * (1 + .5 * (Radar | Binary)) / 5
     )
   )
 }
