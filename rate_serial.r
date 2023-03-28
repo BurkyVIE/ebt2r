@@ -12,7 +12,6 @@ rate_serial <- function(serial = "XY0123456789") {
   D1 = 1 - sum(D1_raw) / 5 / (Length - 1)
   D2_raw = as.integer(abs(diff(D1_raw)))
   D2 = 1 - sum(D2_raw) / 5 / (Length - 2)
-  SF = sqrt(Solid / (Length - 1))
   UF = c(2, 1, .5, .25, .125, 0, 0, 0, 0, .5)[Unique]
   
   return(
@@ -23,7 +22,6 @@ rate_serial <- function(serial = "XY0123456789") {
            D1 = D1,
            # D2_raw = list(D2_raw),
            D2 = D2,
-           SF = SF,
            UF = UF,
            Solid = Solid,
            Ladder = Ladder,
@@ -31,7 +29,7 @@ rate_serial <- function(serial = "XY0123456789") {
            Radar = Radar,
            Binary = Binary,
            Rating = Solid/10 + Ladder/10 + (1-Unique/10) + .3 * Radar + .5 * Binary,
-           Rating2 = (2 * D1 + D2 + SF + UF) * (1 + .5 * (Radar | Binary)) / 5
+           Rating2 = (4 * D1 ** 2 + D2 + SF) * (1 + .5 * (Radar | Binary)) / 5
     )
   )
 }
