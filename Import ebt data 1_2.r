@@ -229,7 +229,8 @@ hits1 <- read_delim(I(raw[1:(splitter - 1)]),
                     lazy = FALSE)
 
 # Übernehme Informationenen aus den Trefferdetails (insb. für fixes Trefferdatum = mein Schein wurde zum Treffer bzw. ich mache einen Treffer; weiteres Finden wird ignoriert)
-hits2 <- read_delim(I(raw[-(1:splitter)]),
+write(raw[-(1:splitter)], "tmp.tmp")
+hits2 <- read_delim("tmp.tmp",
                     delim = ";",
                     skip = 0,
                     col_names = c("Value", "SerialPlain", "PrinterPlain", "Copyright", "NoteID",
@@ -250,8 +251,8 @@ hits2 <- read_delim(I(raw[-(1:splitter)]),
          DateFixed = lubridate::as_datetime(DateFixed, origin = "1970-01-01 00:00:00"))
 
 n <- c(hits1 %>% count() %>% pull(), hits1 %>% filter(Mod == 1) %>% count() %>% pull())
+invisible(file.remove("tmp.tmp"))
 cat(paste("...EBT> READ", n[1], "hits/lines\n"))
-closeAllconnections()
 
 # Schließe moderierte aus
 hits <- hits1 %>%
