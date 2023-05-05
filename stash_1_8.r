@@ -82,7 +82,8 @@ stash_split <- function (chunks = 14, size = NULL, jitter = 0) {
   stash_exp <- transmute(stash,
                          Loc, Note, Stashed,
                          nr = row_number()) |> # durchnumerieren
-    group_by(loc = ordered(paste(Stashed, Loc))) |>  # Gruppe für Loc (in Verbindung mit stash-Datum); eventuell bringt das bei mehreren Loc an einem Datum die Reihenfolge in Reihung ZIP
+    # group_by(loc = ordered(paste(Stashed, Loc))) |>  # Gruppe für Loc (in Verbindung mit stash-Datum); eventuell bringt das bei mehreren Loc an einem Datum die Reihenfolge in Reihung ZIP
+    group_by(loc = cumsum(Loc != lag(Loc, 1, default = Loc[1]))) |>  # erhöhe Gruppe um 1 wenn sich Loc ändert
     mutate(nr_loc = row_number()) |> 
     ungroup() |> 
     # mutate(nr_chunk = (nr - 1) %% size + 1,
