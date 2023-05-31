@@ -5,6 +5,7 @@ rate_serial <- function(serial = "XY0123456789") {
   D1_raw = ifelse(D1_raw>5, 10-D1_raw, D1_raw)
   Solid = as.integer(max(0, nchar(str_extract_all(serial, "(\\d)\\1+")[[1]]), na.rm = TRUE))
   Ladder = max(table(cumsum(D1_raw != 1)))
+  if(Ladder == 1) Ladder = 0
   Unique = length(unique(DigitVector))
   Radar = identical(DigitVector[1:5], rev(DigitVector)[1:5])
   Binary = Unique == 2
