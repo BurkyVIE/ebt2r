@@ -8,6 +8,9 @@ stash_read <- function() {
                     locale = locale(encoding = "UTF-8"),
                     lazy = FALSE)
   
+  # Wieviele Chunks sind im File?
+  chunks <- sum(str_detect(tmp, "- - - S T A R T - - -"))
+  
   # Initialisiere Schleife ----
   stash <- NULL
   i <- 1
@@ -33,13 +36,18 @@ stash_read <- function() {
     relocate(c(Loc, Note), .after = Stashed)
   stash <<- stash
   
+  # Doppelte Seriennummern?
+  dups <- stash |>  pull(Serial) |>  duplicated() |>  any()
+  
   # Kurze Auswertungen ----
   cat("stash:\n")
   print(stash |>  count(Stashed, ZIP) |>  as.data.frame())
   cat("\n")
   cat(paste0(count(stash), " bills stashed"))
   cat("\n")
-  cat(paste0("duplicates = ", stash |>  pull(Serial) |>  duplicated() |>  any()))
+  cat(paste0("duplicates = ", dups, if(dups) " - CAVE!!!"))
+  cat("\n")
+  cat(paste0("available chunks = ", chunks, if(chunks < 4) " - CAVE!!!"))
   cat("\n")
 }
 
@@ -66,9 +74,9 @@ stash_split <- function (chunks = 14, size = NULL, jitter = 0) {
     nr_chunk_raw = NULL
     while(sum(nr_chunk_raw) < n_stash) {
       nr_chunk_raw = c(nr_chunk_raw, sample(jit_rng, 5, replace = TRUE))
-      }
-    nr_chunk = unlist(map(nr_chunk_raw, ~seq(to = .)))[1:n_stash]
     }
+    nr_chunk = unlist(map(nr_chunk_raw, ~seq(to = .)))[1:n_stash]
+  }
   resi <- tail(nr_chunk, 1)
   
   # Dateinamen
@@ -83,7 +91,7 @@ stash_split <- function (chunks = 14, size = NULL, jitter = 0) {
                          Loc, Note, Stashed,
                          nr = row_number()) |> # durchnumerieren
     # group_by(loc = ordered(paste(Stashed, Loc))) |>  # Gruppe für Loc (in Verbindung mit stash-Datum); eventuell bringt das bei mehreren Loc an einem Datum die Reihenfolge in Reihung ZIP
-    group_by(loc = cumsum(Loc != lag(Loc, 1, default = Loc[1]))) |>  # erhöhe Gruppe um 1 wenn sich Loc ändert
+    group_by(loc = cumsum(Loc != lag(Loc, 1, default = Loc[1]))) |>  # erhöhe Gruppe um 1 wenn sich Loc ändert    mutate(nr_loc = row_number()) |> 
     mutate(nr_loc = row_number()) |> 
     ungroup() |> 
     # mutate(nr_chunk = (nr - 1) %% size + 1,
@@ -101,7 +109,7 @@ stash_split <- function (chunks = 14, size = NULL, jitter = 0) {
     ret <- c(ret,
              paste0(ifelse(x[1, "nr"] == 1, "", "\n"),
                     ifelse(x[1, "nr_chunk"] == 1, "\n- - - S T A R T - - -\n", ""),
-                           "<202_-__-__ __:__:__>\n", pull(x[1, "Loc"]), "\n- - - - - - - - - - -"))
+                    "<202_-__-__ __:__:__>\n", pull(x[1, "Loc"]), "\n- - - - - - - - - - -"))
     ret <- c(ret, pull(x[, "Note"])) # ein allfälliger Zeilenumbruch hier braucht kein "\n" da Zeichen (zB "") nach df einen Umbruch erzeugt
     return(ret)
   }
