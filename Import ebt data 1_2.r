@@ -26,6 +26,10 @@ EBT_global <- list(
                    "BURKY-ULTRA" = "C:/Users/Thomas/Eurobanknotes/",
                    "C:/Eurobanknotes/"),
   
+  series_name = tribble(~Series, ~Name,
+                        "ES1", "1st series",
+                        "ES2", "Europa series"),
+  
   series = tribble(~Value, ~Copyright, ~Series,
                    5L, 2002L, "ES-1",
                    10L, 2002L, "ES-1",
